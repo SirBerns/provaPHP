@@ -1,0 +1,1 @@
+Prova que eu fiz, onde utilizei os conceitos de objeto PDO, conexão com o banco de dados (MySQL), cookies, session, arrays e etc.
